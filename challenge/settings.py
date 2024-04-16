@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'challenge.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
-
+ 
 DATABASES = {'default': dj_database_url.config(default='postgres://blogdb_gxoy_user:z2WrC0xhE2A8KSnZCht6xDbNx6TZfaYS@dpg-cof8er779t8c73ced5tg-a.oregon-postgres.render.com/blogdb_gxoy')}
 
 
